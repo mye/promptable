@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "promptable"
+  site-url: "https://mye.github.io/promptable"
+  description: "Create AI prompts"
+  repo-branch: main
+  repo-url: "https://github.com/mye/promptable"
